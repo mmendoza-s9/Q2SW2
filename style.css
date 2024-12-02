@@ -1,0 +1,25 @@
+
+p {
+	text-align: left;
+	margin:0;
+	padding:0;
+}
+
+body {
+	background-image:url(https://i.pinimg.com/736x/d4/b8/0d/d4b80d0859bee997c40401d501937b96.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #FFFFFF;
+}
+
+.container {
+	background-color:#02061d;
+	padding: 15px;
+	border-radius: 15px;
+}
+
+h2 {
+	text-align: center;
+	color: #FFFFFF;
+}
+
